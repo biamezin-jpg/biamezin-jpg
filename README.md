@@ -1,4 +1,4 @@
-<h1 align="center">Lucaaas</h1>
+<h1 align="center">Bia MEZIN</h1>
 <h3 align="center">Élève ingénieur en Génie Rural · Hydraulique & Ressources en eau</h3>
 
 <p align="center">
