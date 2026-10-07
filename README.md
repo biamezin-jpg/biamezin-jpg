@@ -1,84 +1,47 @@
-# Hi, I'm Bia 👋
+<h1 align="center">Lucaaas</h1>
+<h3 align="center">Élève ingénieur en Génie Rural · Hydraulique & Ressources en eau</h3>
 
-### Rural Engineering Student | Water & Hydraulics | GIS | Hydrology
-
-I'm a Rural Engineering student specializing in Water, Environment and Infrastructure.
-
-My main interests are:
-- 💧 Hydraulics & Hydrology
-- 🌊 Flood risk and water resources
-- 🗺️ GIS & Remote Sensing
-- 🏗️ Hydraulic infrastructure and dams
-- 🐍 Python & Data Analysis
-- 🤖 AI applications in Water Engineering
+<p align="center">
+  IAV Hassan II, Maroc · Promotion 2027<br>
+  🎯 À la recherche d'un <b>PFE en ouvrages hydrauliques et barrages</b>
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## 👷 À propos
 
-### Engineering
-- Hydrology
-- Hydraulics
-- Flood modelling
-- Water resources
-- Hydraulic structures
+Je me forme à l'ingénierie des ressources en eau : de l'hydrologie appliquée au dimensionnement d'ouvrages, avec une approche appuyée sur l'analyse spatiale (SIG) et l'automatisation des calculs en Python.
 
-### GIS & Remote Sensing
-- ArcGIS Pro
-- QGIS
-- Google Earth Engine
-- Remote sensing
-- Spatial analysis
+## 🔧 Domaines de compétence
 
-### Hydraulic & Hydrological Modelling
-- HEC-RAS
-- HEC-HMS
-- SWMM
-- EPANET
-- Hyfran Plus
+- **Hydrologie** : analyse fréquentielle, estimation des débits de crue, hydrogrammes
+- **Hydraulique** : modélisation d'écoulements, protection contre les inondations
+- **Barrages** : courbes Hauteur-Surface-Volume, choix de site, transport solide
+- **SIG** : délimitation de bassins versants, cartographie, analyse spatiale
+- **Structures** : calcul béton armé (BAEL)
 
-### Programming & Data
-- Python
-- SQL
-- HTML/CSS
-- Excel / VBA
-- Data analysis
+## 🛠️ Outils
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-## 🚀 Featured Projects
+HEC-RAS · HEC-HMS · GeoPandas · Rasterio · Pandas · Matplotlib
 
-### 🌊 Flood Risk Mapping with HEC-RAS
-Hydraulic modelling and flood extent analysis using GIS and HEC-RAS.
+## 📌 Expériences
 
-### 🗺️ Watershed Delineation & Hydrological Analysis
-GIS-based watershed delineation, morphometric analysis and hydrological calculations.
+- **Étude de protection contre les crues**, Guelmim — modélisation hydrologique et hydraulique (stage, Anzar Conseil)
+- **Étude de faisabilité d'un petit barrage**, commune de Skoura Mdaz — courbes HSV, choix du site, transport solide (stage, Anzar Conseil)
 
-### 🛰️ Flood Monitoring with Satellite Imagery
-Flood detection and water surface analysis using Sentinel/Landsat imagery and Google Earth Engine.
+## 📂 Projets en vedette
 
-### 🤖 AI Agent for PFE Opportunities
-An AI-powered workflow designed to monitor engineering internship opportunities and identify relevant PFE offers.
+| Projet | Description |
+|---|---|
+| [nom-du-depot-1](lien) | Analyse fréquentielle des crues (Gumbel / GEV) |
+| [nom-du-depot-2](lien) | Génération automatique des courbes HSV d'une retenue |
+| [nom-du-depot-3](lien) | Délimitation de bassin versant et paramètres physiques (SIG) |
 
----
+## 📫 Me contacter
 
-## 📚 Currently Learning
-
-- Python for Engineering
-- Artificial Intelligence
-- GIS automation
-- Remote Sensing
-- Hydraulic modelling
-- Data analysis
-
----
-
-## 🎯 Career Interests
-
-I'm interested in opportunities related to:
-
-**Hydraulics • Hydrology • Water Resources • GIS • Dams • Flood Risk • Environmental Engineering • AI & Data**
-
----
-
-📫 Feel free to connect with me on LinkedIn.
+[LinkedIn]([ton-lien]) · [email@exemple.com](mailto:email@exemple.com) · [CV]([lien-vers-ton-cv.pdf])
