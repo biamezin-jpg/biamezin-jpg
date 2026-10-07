@@ -34,14 +34,8 @@ HEC-RAS · HEC-HMS · GeoPandas · Rasterio · Pandas · Matplotlib
 - **Étude de protection contre les crues**, Guelmim — modélisation hydrologique et hydraulique 
 - **Étude de faisabilité d'un petit barrage**, commune de Skoura Mdaz — courbes HSV, choix du site, transport solide 
 
-## 📂 Projets en vedette
 
-| Projet | Description |
-|---|---|
-| [nom-du-depot-1](lien) | Analyse fréquentielle des crues (Gumbel / GEV) |
-| [nom-du-depot-2](lien) | Génération automatique des courbes HSV d'une retenue |
-| [nom-du-depot-3](lien) | Délimitation de bassin versant et paramètres physiques (SIG) |
 
 ## 📫 Me contacter
 
-[LinkedIn]([ton-lien]) · [email@exemple.com](mailto:email@exemple.com) · [CV]([lien-vers-ton-cv.pdf])
+[https://www.linkedin.com/in/bia-mezin-13b8a8305?utm_source=share_via&utm_content=profile&utm_medium=member_ios) · [bia.mezin@iav.ac.ma) 
