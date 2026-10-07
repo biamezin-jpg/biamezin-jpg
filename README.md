@@ -31,8 +31,8 @@ HEC-RAS · HEC-HMS · GeoPandas · Rasterio · Pandas · Matplotlib
 
 ## 📌 Expériences
 
-- **Étude de protection contre les crues**, Guelmim — modélisation hydrologique et hydraulique (stage, Anzar Conseil)
-- **Étude de faisabilité d'un petit barrage**, commune de Skoura Mdaz — courbes HSV, choix du site, transport solide (stage, Anzar Conseil)
+- **Étude de protection contre les crues**, Guelmim — modélisation hydrologique et hydraulique 
+- **Étude de faisabilité d'un petit barrage**, commune de Skoura Mdaz — courbes HSV, choix du site, transport solide 
 
 ## 📂 Projets en vedette
 
